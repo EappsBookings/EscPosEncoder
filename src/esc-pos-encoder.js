@@ -342,8 +342,6 @@ class EscPosEncoder {
   }
 
 
-
-  
   /**
      * Initialize the printer
      *
@@ -615,7 +613,7 @@ class EscPosEncoder {
      * @return {object}                  Return the object, for easy chaining commands
      *
      */
-   size(value) {
+  size(value) {
     switch (value) {
       case 'large':
         value = [0x1b, 0x21, 0x30];
