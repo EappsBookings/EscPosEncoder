@@ -33,7 +33,7 @@
     "canvas": "^2.8.0",
     "canvas-dither": "^1.0.1",
     "canvas-flatten": "^1.0.1",
-    "codepage-encoder": "https://github.com/zmartell/CodepageEncode.git",
+    "codepage-encoder": "https://github.com/zmartell/CodepageEncoder.git",
     "linewrap": "^0.2.1"
   },
   "directories": {
