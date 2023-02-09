@@ -1,5 +1,5 @@
 {
-  "name": "@zmartell/esc-pos-encoder",
+  "name": "@EappsBookings/esc-pos-encoder",
   "version": "2.0.0",
   "description": "Create a set of commands that can be send to any receipt printer that supports ESC/POS",
   "main": "src/esc-pos-encoder.js",
@@ -19,10 +19,6 @@
   ],
   "author": "Niels Leenheer",
   "license": "MIT",
-  "bugs": {
-    "url": "https://github.com/NielsLeenheer/EscPosEncoder/issues"
-  },
-  "homepage": "https://github.com/NielsLeenheer/EscPosEncoder#readme",
   "devDependencies": {
     "browserify": "^17.0.0",
     "buffer-to-uint8array": "^1.1.0",
